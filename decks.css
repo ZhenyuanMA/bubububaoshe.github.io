@@ -54,7 +54,7 @@
 #repository .charcontainer:nth-child(n+5) .cardback{
   box-shadow: none;
 }
-#repository .charcontainer:first-child){
+#repository .charcontainer:first-child{
   left: calc(var(--card-width) / 4);
   top: calc(var(--card-height) /30);
 }
